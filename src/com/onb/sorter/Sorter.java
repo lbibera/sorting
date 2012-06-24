@@ -29,4 +29,6 @@ public interface Sorter {
 	void specialAttack2();
 	
 	void specialAttack3();
+	
+	void weapon1();
 }
