@@ -16,4 +16,9 @@ public interface Sorter {
 	 * @return if the sort() method was called at least once
 	 */
 	boolean isSorted();
+	
+	/**
+	  * does nothing
+	  */
+	void doNothing();
 }
