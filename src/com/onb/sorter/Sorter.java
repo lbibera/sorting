@@ -21,4 +21,6 @@ public interface Sorter {
 	  * does nothing
 	  */
 	void doNothing();
+	
+	void doNothing2();
 }
