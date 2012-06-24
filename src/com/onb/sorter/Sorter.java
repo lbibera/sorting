@@ -31,4 +31,6 @@ public interface Sorter {
 	void specialAttack3();
 	
 	void weapon1();
+	
+	void weapon2();
 }
