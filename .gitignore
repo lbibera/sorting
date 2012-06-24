@@ -1,0 +1,12 @@
+.svn
+build
+.metadata
+build.*.properties
+.DS_Store
+bin
+dist
+classes
+.classpath
+.project
+.settings
+
