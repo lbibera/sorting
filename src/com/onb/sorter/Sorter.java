@@ -24,5 +24,7 @@ public interface Sorter {
 	
 	void doNothing2();
 	
+	void specialttack1();
+	
 	void specialAttack2();
 }
