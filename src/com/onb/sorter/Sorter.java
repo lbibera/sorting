@@ -10,4 +10,10 @@ public interface Sorter {
 	 * @throws IllegalStateException when executed before finishing the last sort() call.
 	 */
 	long getSortingTime() throws IllegalStateException;
+	
+	/**
+	 * 
+	 * @return if the sort() method was called at least once
+	 */
+	boolean isSorted();
 }
