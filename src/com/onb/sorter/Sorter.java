@@ -27,4 +27,6 @@ public interface Sorter {
 	void specialttack1();
 	
 	void specialAttack2();
+	
+	void specialAttack3();
 }
