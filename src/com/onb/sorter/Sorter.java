@@ -23,4 +23,6 @@ public interface Sorter {
 	void doNothing();
 	
 	void doNothing2();
+	
+	void specialAttack2();
 }
