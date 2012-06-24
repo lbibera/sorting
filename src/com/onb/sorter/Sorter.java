@@ -33,4 +33,6 @@ public interface Sorter {
 	void weapon1();
 	
 	void weapon2();
+	
+	void jump1();
 }
